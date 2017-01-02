@@ -1,2 +1,1 @@
-README.md
-![alt tag](demo.gif)
+![alt tag](./demo.gif)
